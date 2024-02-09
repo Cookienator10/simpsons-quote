@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 35vw;
+    height: 60vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:  45px;
+    border-radius: 5%;
+    margin-left: 38vw;
+    border: dotted 4px;
+ background-color: aqua;
+
+}
+
+h1 {
+    color: rgb(165, 159, 42);
+}
+img {
+    width: 65%;
+    height: 65%;
+    
+}
+#btn-get-api{
+    padding: 0.5px;
+    color: bisque;
+    background-color: blue;
+    margin-top: 5vw;
+    width: 45%;
+    height: 74%;
+}
+
+h2 {
+color: rgb(165, 159, 42);
+
+}
+ 
